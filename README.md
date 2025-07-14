@@ -22,7 +22,7 @@ This application follows a **clean architecture** pattern with clear separation 
 - **UI Components**: Custom components with Tailwind CSS
 - **Type Safety**: Shared TypeScript types between frontend and backend
 
-### Database (PostgreSQL 15)
+### Database
 - **Schema**: Well-structured tables with constraints and indexes
 - **Migrations**: Database initialization scripts
 - **Performance**: Optimized queries with proper indexing
