@@ -16,7 +16,7 @@ This application follows a **clean architecture** pattern with clear separation 
 - **Data Layer**: PostgreSQL integration with connection pooling
 - **Domain Layer**: Type-safe models and interfaces
 
-### Frontend (Next.js 14 + TypeScript + Tailwind CSS)
+### Frontend (Next.js + TypeScript + Tailwind CSS)
 - **App Router**: Modern Next.js routing with server components
 - **State Management**: React Query for server state management
 - **UI Components**: Custom components with Tailwind CSS
